@@ -1,0 +1,11 @@
+.DS_store
+run_sim
+json
+json_output.json
+.ipynb_*
+.vsc*
+src/__pycache*
+src/.ipynb_*
+src/outputs/*
+visualizations/*
+.idea/*
